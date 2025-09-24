@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Red Hat Text";
+    scrollbar-width: 1px;
+}
+
+.titulo {
+    font-size: 3rem;
+    margin-top: 10vh;
+    width: 100%;
+    height: auto;
+}
+
+.titulo .img {
+    width: 50%;
+    height: auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btnVenda {
+    margin-bottom: 5vh;
+    background-color: #006eff;
+    color: white;
+    border-color: transparent;
+    scale: 250%;
+    width: 7%;
+    font-size: auto;
+    max-width: 7%;
+    border-radius: 50px;
+}
